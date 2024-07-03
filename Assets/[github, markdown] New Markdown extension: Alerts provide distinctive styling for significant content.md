@@ -1,5 +1,5 @@
 # 2024-07-03
-**Tags**: `GitHub`, `Markdown`
+**Tags**: `github`, `markdown`
 
 ## What I Learned
 알림(Alert)은 내용의 중요성을 나타내기 위해 독특한 색상과 아이콘으로 표시되는 Markdown extension입니다. 다음의 다섯 가지 종류의 알림을 지원합니다.
