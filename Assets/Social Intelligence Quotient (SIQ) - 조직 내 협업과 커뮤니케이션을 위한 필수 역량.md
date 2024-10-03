@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/bedae5ae-0136-44e5-819c-13ea04190aa3)
+
+Photo by [Annie Spratt](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%2F%40anniespratt%3Futm_source%3Dmedium%26utm_medium%3Dreferral) on [Unsplash](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%3Futm_source%3Dmedium%26utm_medium%3Dreferral)
+
+<br/>
+
 # 📚 주제 소개
 Social Intelligence Quotient(SIQ)는 사회적 상황에서 타인과의 상호작용을 효과적으로 관리하고, 협력하는 능력을 평가하는 지표입니다. 현대의 조직은 복잡한 상호작용과 팀워크를 필요로 하기 때문에, SIQ는 개인과 팀의 성공을 가늠하는 중요한 요소가 됩니다. 이번 글에서는 SIQ의 개념과 이를 높이기 위한 실질적인 방법들을 탐구합니다.
 
@@ -5,7 +11,7 @@ Social Intelligence Quotient(SIQ)는 사회적 상황에서 타인과의 상호�
 
 # 📚 본론
 ## 📖 SIQ란 무엇인가?
-SIQ는 사회적 지능을 측정하는 척도로, 사회적 상황에서 타인의 감정과 행동을 파악하고 이에 적절히 반응하는 능력을 평가합니다. 이는 감정적 지능(EQ)과 밀접하게 연관되어 있으며, 복잡한 조직 내 상호작용에서 필수적인 요소로 간주됩니다. 주요 요소는 다음과 같습니다:
+SIQ는 사회적 지능을 측정하는 척도로, 사회적 상황에서 타인의 감정과 행동을 파악하고 이에 적절히 반응하는 능력을 평가합니다. 이는 감정적 지능(EQ)과 밀접하게 연관되어 있으며, 복잡한 조직 내 상호작용에서 필수적인 요소로 간주됩니다. 주요 요소는 다음과 같습니다.
 
 - 타인 인식 능력 - 타인의 감정과 동기를 이해하는 능력
 - 관계 관리 능력 - 신뢰를 바탕으로 관계를 구축하고 유지하는 능력
