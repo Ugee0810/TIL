@@ -474,12 +474,12 @@ WebGPU는 현재 기술을 기반으로 하고 있지만, 향후 발전 가능�
 **📄 Unity Discussions**
 Unity 포럼에서 WebGPU 백엔드에 관한 초기 액세스 정보와 토론을 제공합니다. 링크를 통해 최신 정보를 얻을 수 있습니다. GPU를 활용한 스키닝 기술을 보여주며, 다수의 3D 캐릭터에 대한 실시간 렌더링을 확인할 수 있습니다.
 
-→ Unity 포럼 링크
+→ [Unity 포럼 링크](https://discussions.unity.com/t/early-access-to-the-new-webgpu-backend-in-unity-2023-3/933493)
 
 **📄 Keijiro 웹사이트**
 Unity 애드버킷인 Keijiro의 웹사이트에서 WebGPU 데모를 확인할 수 있습니다. 여기서는 GPU 스키닝 및 VFX 그래픽 관련 데모를 볼 수 있습니다. VFX(Visual Effects) 그래픽을 WebGPU를 통해 렌더링하는 예시로, 고성능 그래픽 연산이 어떻게 이루어지는지 볼 수 있습니다.
 
-→ Keijiro WebGPU 테스트 링크
+→ [Keijiro WebGPU 테스트 링크](https://www.keijiro.tokyo/WebGPU-Test/)
 
 ![image](https://github.com/user-attachments/assets/78a81888-f3ed-4b0c-b3a3-54e764d587a1)
 
