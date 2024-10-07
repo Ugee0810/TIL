@@ -504,14 +504,4 @@ Unity 애드버킷인 Keijiro의 웹사이트에서 WebGPU 데모를 확인할 �
 - macOS: Chrome, Safari Technology Preview
 - iOS/iPadOS 18: Safari (플래그 설정 필요)
 - Linux: Chrome (플래그 설정을 통한 실험적 지원)
-- Firefox: 지원이 개발 중
-
-
-
-
-
-
-
-
-
-
+- Firefox: 지원 개발 중
